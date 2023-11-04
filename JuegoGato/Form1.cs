@@ -17,12 +17,6 @@ namespace JuegoGato
             InitializeComponent();
         }
 
-        private void pictureBox1_Click(object sender, EventArgs e)
-        {
-            if (pictureBox1.CanSelect)
-            {
-
-            }
-        }
+       
     }
 }
